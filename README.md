@@ -1,2 +1,2 @@
 # parameterizedtests
-Contains data driven testing using parameterized tests
+Data driven testing using parameterized tests
